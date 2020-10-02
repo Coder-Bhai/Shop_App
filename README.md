@@ -1,8 +1,8 @@
-# shop_app
+# Shopping App
 
-A new Flutter application.
+An app for shopping 🛒 created with 💙 using flutter
 
-## Getting Started
+## To get started : 
 
 This project is a starting point for a Flutter application.
 
